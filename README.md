@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bgcoelho
-- 👀 I’m interested in AI, Product strategy & development
+- 👋 Hi, I’m Bruno @bgcoelho
+- 👀 I’m interested in AI, Data, Product strategy & development
 - 🌱 I’m currently learning AI, LLMs and business strategy
 - 💞️ I’m looking to collaborate on AI-powered products
 - 📫 How to reach me bgracacoelho@gmail.com
