@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning AI, LLMs and business strategy
 - 💞️ I’m looking to collaborate on AI-powered products
 - 📫 How to reach me bgracacoelho@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Let's talk
 
 <!---
 bgcoelho/bgcoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
