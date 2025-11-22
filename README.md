@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AI, LLMs and business strategy
 - 💞️ I’m looking to collaborate on AI-powered products
 - 📫 How to reach me bgracacoelho@gmail.com
-- ⚡ Fun fact: Let's talk
+- ⚡ Fun fact: let's talk
 
 <!---
 bgcoelho/bgcoelho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
